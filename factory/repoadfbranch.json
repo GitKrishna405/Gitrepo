@@ -1,0 +1,9 @@
+{
+	"name": "repoadfbranch",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de31bcde-9644-4426-8ead-e821219b3129",
+		"tenantId": "41259a02-dae7-4039-8ae2-161de56ff95d"
+	}
+}
