@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "repoadfbranch"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
